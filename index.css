@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+button {
+  width: 150px;
+  background-color: #2f4f4f;
+  color: white;
+  font-size: 25px;
+  padding: 10px;
+}
+#myInput {
+  margin: auto;
+  width: 400px;
+  height: 50px;
+}
